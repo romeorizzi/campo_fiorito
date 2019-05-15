@@ -1,0 +1,41 @@
+progetto campo fiorito
+
+Tommasi Benedetta
+Bombieri Mattia
+Luca Cosi
+Pellizzaro Arianna
+
+
+Requisiti obbligatori del codice:
+su repo GitHub pubblico
+compilabile da riga di comando
+presentazione: (0-5) punti
+
+Requisiti validi per ogni progetto:
+
+Documento README del progetto su GitHub: 3 punti 
+
+rispetto dell'indentazione: 1 punto
+rispetto delle convenzioni camel case: 1 punto
+se il codice è commentato (almeno la JavaDoc di ogni metodo): 2 punti
+se il codice è strutturato a oggetti in modo in che abbia senso: 3 punti
+
+Requisiti per questo progetto:
+
+Realizzare un programma che consenta all'utente umano di gicare a campo fiorito.
+Il computer offre una disposizione random delle mine, nascoste.
+Poi fa giocare l'umano.
+Basta interfaccia carattere.
+Organizzare uan mappa in memoria che venga riportate sul monito dopo ogni aggiornamento.
+Visualizzazione su interfaccia a caratteri dove però l'utente sia messo
+in condizioni di seguire cosa sta succedendo.
+
+Strutturazine in classi preventivata
+
+Classe Carta, una carta è una coppia seme/divisa, nella visualizzazione non serve dare il seme,
+Classe Mazzo, si mescola, 
+Classe pozzo,
+Classe piramide
+Classe partita
+
+
